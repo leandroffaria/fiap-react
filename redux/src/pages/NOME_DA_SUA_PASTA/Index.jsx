@@ -10,7 +10,7 @@ const mapStateToProps = state => ({
 });
 
 const mapDispatchToProps = dispatch => ({
-    test: () => test(dispatch),
+    onTest: () => test(dispatch),
 });
 
 [...]
