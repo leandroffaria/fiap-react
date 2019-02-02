@@ -37,11 +37,11 @@ Será a página inicial do projeto. Acessando a URL `http://[domain]/` esta pág
  
   - Montar uma interface com uma experiência para o usuário é um fator importantissímo na avaliação. Exemplo, quando realizar a requisção, mostrar algo que diz que está sendo feito algo, pode ser um "Aguarde...".
   - Pensar na organização do projeto. Perguntas que podem ser feitas:
-  ** "Os diretórios estão **organizados**?"
-  * "Criei os **componentes** necessários para o projeto?"
-  * "Estou seguindo um **padrão** de escrita de código?"
-  * "Meu código está identado? **Qualquer** pessoa consegue compreender a escrita do código?"
-  * "Escrevi um **Readme.md** e **qualquer **consegue iniciar meu projeto por este **Readme**?"
+    - "Os diretórios estão **organizados**?"
+    - "Criei os **componentes** necessários para o projeto?"
+    - "Estou seguindo um **padrão** de escrita de código?"
+    - "Meu código está identado? **Qualquer** pessoa consegue compreender a escrita do código?"
+    - "Escrevi um **Readme.md** e **qualquer **consegue iniciar meu projeto por este **Readme**?"
 
 # Premiação! 
 
