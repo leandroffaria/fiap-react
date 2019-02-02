@@ -47,7 +47,7 @@ Será a página inicial do projeto. Acessando a URL `http://[domain]/` esta pág
 
 Os **dois** melhores projetos serão premiados com um Gift Card do Mercado Livre!
 
-![Gift Card](https://shop.econobit.com.br/wp-content/uploads/2018/04/mercadolivre.jpg|width=100)
+![Gift Card](https://shop.econobit.com.br/wp-content/uploads/2018/04/mercadolivre.jpg)
 
 # Exemplos
 * [Versão inicial que fizemos durante a aula](https://drive.google.com/open?id=1gCyOmrE4NVIDU85pUJ-6Ct5MmPLTyhnR)
