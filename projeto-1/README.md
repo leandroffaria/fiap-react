@@ -41,7 +41,7 @@ Será a página inicial do projeto. Acessando a URL `http://[domain]/` esta pág
     - "Criei os **componentes** necessários para o projeto?"
     - "Estou seguindo um **padrão** de escrita de código?"
     - "Meu código está identado? **Qualquer** pessoa consegue compreender a escrita do código?"
-    - "Escrevi um **Readme.md** e **qualquer **consegue iniciar meu projeto por este **Readme**?"
+    - "Escrevi um **Readme.md** e **qualquer** um consegue inicializar o meu projeto por este **Readme**?"
 
 # Premiação! 
 
