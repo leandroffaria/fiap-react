@@ -46,6 +46,6 @@ Será a página inicial do projeto. Acessando a URL `http://[domain]/` esta pág
 Existem diversas APIs que podem ser utilizadas para a construção deste APP, alguns exemplos:
 
 * [Superhero](http://superheroapi.com)
-* [Formula 1](http://ergast.com/mrd/)
+* [Fórmula 1](http://ergast.com/mrd/)
 * [Youtube](https://developers.google.com/youtube/v3/)
 * [Twitter](https://developer.twitter.com)
