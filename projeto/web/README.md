@@ -1,4 +1,4 @@
-# Projeto 1
+# Projeto WEB
 
 A proposta deste projeto é criar um website realizando integrações com API's. Será utilizado como base para gerar a estrutura do projeto o módulo **create-react-app**.
 
@@ -42,13 +42,3 @@ Será a página inicial do projeto. Acessando a URL `http://[domain]/` esta pág
     - "Estou seguindo um **padrão** de escrita de código?"
     - "Meu código está identado? **Qualquer** pessoa consegue compreender a escrita do código?"
     - "Escrevi um **Readme.md** e **qualquer** um consegue inicializar o meu projeto por este **Readme**?"
-
-# Premiação! 
-
-Os **dois** melhores projetos serão premiados com um Gift Card do Mercado Livre!
-
-# Exemplos
-* [Versão inicial que fizemos durante a aula](https://drive.google.com/open?id=1gCyOmrE4NVIDU85pUJ-6Ct5MmPLTyhnR)
-* [Exemplo com componentes gerais](https://drive.google.com/open?id=133ChPIjSoDo3no0p6rAstTNHf6Yh56T9)
-* [Exemplo com componentes e criando serviços genéricos para o projeto](https://drive.google.com/open?id=1bO3M0KCZOZaq2P780adwJUDoMhS2YiQE)
-* [Exemplo com componentes, criando serviços genéricos, e aplicando o Redux](https://drive.google.com/open?id=1zOBwXXuJDWepYU_Uq2T2fcTcFTfphFf1)
