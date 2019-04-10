@@ -13,7 +13,7 @@ Terá um peso **60%** do total da nota.
 
 ## [App](./app)
 
-Após aplicarmos conceitos (ex.: props e state) chaves de React no projeto focado na área Web, iremos desenvolver um aplicativo utilizando os recursos do React Native. Realizaremos também integração com APIs, porém agora fica um pouco mais aberta a escolha.
+Após aplicarmos conceitos (ex.: props e state) chaves de React no projeto focado na área Web, iremos desenvolver um [aplicativo](./app) utilizando os recursos do React Native. Realizaremos também integração com APIs, porém agora fica um pouco mais aberta a escolha de qual API utilizar.
 
 #### Avaliação
 
