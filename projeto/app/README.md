@@ -12,8 +12,6 @@ A proposta deste projeto é criar um App utilizando React Native, realizando int
 **Helper:**
 * [Nativebase](https://nativebase.io/) - Possuí diversos componentes, todos prontos para iOS e Android. Instalar com o comando abaixo:
 `npm install native-base –-save`
-* [@Expo/vector-icons](https://github.com/expo/vector-icons) - Contribui para customização com a aplicação de ícones. Instalar com o comando abaixo:
-`npm install @expo/vector-icons –-save`
 
 # Funcionalidades básicas
 
