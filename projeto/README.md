@@ -1,6 +1,23 @@
 # Projetos
 
-A proposta durante do curso Cross Platform - React será desenvolvermos dois projetos. Um com foco no React e outro com React Native. Alguns fundamentos do React são chave para entendermos como funciona o Native.
+Durante o módulo de **Cross Platform - React** vamos realizar o desenvolvimento de dois projetos.
 
-* 1º) [Web](./web): peso de **40%** da nota
-* 2º) [App](./app): peso de **60%** da nota
+## [Web](./web)
+
+Neste projeto vamos trabalhar com o React mais focados para a [Web](./web). Vamos ver os fundamentos básicos da biblioteca, SPA e como realizar a integração com APIs e como controlar todas essas informações.
+
+#### Avaliação
+
+Terá um peso **60%** do total da nota.
+
+
+## [App](./app)
+
+Após aplicarmos conceitos (ex.: props e state) chaves de React no projeto focado na área Web, iremos desenvolver um aplicativo utilizando os recursos do React Native. Realizaremos também integração com APIs, porém agora fica um pouco mais aberta a escolha.
+
+#### Avaliação
+
+Terá um peso **60%** do total da nota.
+
+# Dúvidas
+Crie uma "Issue" com as perguntas para que as dúvidas sejam compartilhados com todos os alunos. Questionamentos particulares devem ser encaminhados diretamente para o professor.
