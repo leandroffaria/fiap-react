@@ -5,6 +5,6 @@ Durante as aulas serão abordados conceitos utilizando __React__ e __React Nativ
 
 ## Um pouco do que iremos ver
 
-![](./images/react-logo.png | width=200)
+![](./images/react-logo.png){: style="height:150px;width:150px"}
 ![](./images/reative-native-logo.png)
 ![](./images/redux-logo.png)
