@@ -10,3 +10,9 @@ Durante as aulas serão abordados conceitos utilizando __React__ e __React Nativ
   <img width="200" style="margin-left: 20px;" src="./images/react-native-logo.png">
   <img width="200" style="margin-left: 20px;" src="./images/redux-logo.png">
 </p>
+
+## Projetos
+
+## Como iremos trabalhar
+
+## Referências
