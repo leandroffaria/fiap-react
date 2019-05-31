@@ -44,5 +44,5 @@ Será a página inicial do projeto. Acessando a URL `http://[domain]/` esta pág
     - "Estou seguindo um **padrão** de escrita de código?"
     - "Meu código está identado? **Qualquer** pessoa consegue compreender a escrita do código?"
     - "Escrevi um **Readme.md** e **qualquer** um consegue inicializar o meu projeto por este **Readme**?"
-    - Evite deixar código comentado;
+    - Evite deixar código comentado
 
