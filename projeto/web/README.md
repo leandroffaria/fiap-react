@@ -33,11 +33,14 @@ Será a página inicial do projeto. Acessando a URL `http://[domain]/` esta pág
 
 * coloque outras informacões que julgar necessário. Sempre leve em consideração que os dados desta página precisam ser atrativos para **você**, e que te convença a realizar a compra.
 
+### Requisitos
+  - Precisa estar em um respositório no Github
+  - Precisa ser responsivo
+  - Precisa estar no Github Pages
+
 ### Detalhes!
  
   - Montar uma interface com uma experiência para o usuário é um fator importantissímo na avaliação. Exemplo, quando realizar a requisção, mostrar algo que diz que está sendo feito algo, pode ser um "Aguarde...".
-  - Precisa ser responsivo;
-  - Precisa estar no Github Pages;
   - Pensar na organização do projeto. Perguntas que podem ser feitas:
     - "Os diretórios estão **organizados**?"
     - "Criei os **componentes** necessários para o projeto?"
