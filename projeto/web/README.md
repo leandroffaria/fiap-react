@@ -36,9 +36,13 @@ Será a página inicial do projeto. Acessando a URL `http://[domain]/` esta pág
 ### Detalhes!
  
   - Montar uma interface com uma experiência para o usuário é um fator importantissímo na avaliação. Exemplo, quando realizar a requisção, mostrar algo que diz que está sendo feito algo, pode ser um "Aguarde...".
+  - Precisa ser responsivo;
+  - Precisa estar no Github Pages;
   - Pensar na organização do projeto. Perguntas que podem ser feitas:
     - "Os diretórios estão **organizados**?"
     - "Criei os **componentes** necessários para o projeto?"
     - "Estou seguindo um **padrão** de escrita de código?"
     - "Meu código está identado? **Qualquer** pessoa consegue compreender a escrita do código?"
     - "Escrevi um **Readme.md** e **qualquer** um consegue inicializar o meu projeto por este **Readme**?"
+    - Evite deixar código comentado;
+
