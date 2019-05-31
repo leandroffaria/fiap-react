@@ -8,7 +8,7 @@ Neste projeto vamos trabalhar com o React mais focados para a [Web](./web). Vamo
 
 #### Avaliação
 
-Terá um peso **60%** do total da nota.
+Terá um peso **40%** do total da nota.
 
 
 ## [App](./app)
