@@ -17,7 +17,7 @@ A proposta deste projeto é criar um App utilizando React Native, realizando int
 
 ### Tela inicial
 
-Será a página inicial do projeto. Acessando a URL `http://[domain]/` esta página deverá ser carregada.
+Será a página inicial do projeto
 
 **Recursos mínimos exigidos da página:**
 
@@ -30,7 +30,7 @@ Será a página inicial do projeto. Acessando a URL `http://[domain]/` esta pág
 * coloque outras informacões que julgar necessário. Sempre leve em consideração que os dados desta página precisam ser atrativos para **você**!
 
 ### Detalhes!
- 
+  - Troquei as imagens que vem como base do expo-cli?
   - Montar uma interface com uma experiência para o usuário é um fator importantissímo na avaliação. Exemplo, quando realizar a requisção, mostrar algo que diz que está sendo feito algo, pode ser um "Aguarde...".
   - Pensar na organização do projeto. Perguntas que podem ser feitas:
     - "Os diretórios estão **organizados**?"
