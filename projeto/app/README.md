@@ -13,23 +13,7 @@ A proposta deste projeto é criar um App utilizando React Native, realizando int
 * [Nativebase](https://nativebase.io/) - Possuí diversos componentes, todos prontos para iOS e Android. Instalar com o comando abaixo:
 `npm install native-base –-save`
 
-# Funcionalidades básicas
-
-### Tela inicial
-
-Será a página inicial do projeto
-
-**Recursos mínimos exigidos da página:**
-
-- precisa possuir um campo de busca, para que seja possível digitar um texto aberto. Este valor precisa ser repassado para o endpoint API;
-- precisa possuir uma listagem exibindo o resultado retornado a partir do valor utilizado no campo de busca;
-
-### Segunda tela do projeto
-- a página precisa possuir o máximo de informação que o usuário resolveu visualizar a partir da listagem que ele mesmo fez a busca:
-
-* coloque outras informacões que julgar necessário. Sempre leve em consideração que os dados desta página precisam ser atrativos para **você**!
-
-### Detalhes!
+## Detalhes!
   - Troquei as imagens que vem como base do expo-cli?
   - Montar uma interface com uma experiência para o usuário é um fator importantissímo na avaliação. Exemplo, quando realizar a requisção, mostrar algo que diz que está sendo feito algo, pode ser um "Aguarde...".
   - Pensar na organização do projeto. Perguntas que podem ser feitas:
@@ -39,7 +23,7 @@ Será a página inicial do projeto
     - "Meu código está identado? **Qualquer** pessoa consegue compreender a escrita do código?"
     - "Escrevi um **Readme.md** e **qualquer** um consegue inicializar o meu projeto por este **Readme**?"
 
-# APIs
+## APIs
 
 Existem diversas APIs que podem ser utilizadas para a construção deste APP, alguns exemplos:
 
