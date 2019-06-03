@@ -36,12 +36,14 @@ Será a página inicial do projeto. Acessando a URL `http://[domain]/` esta pág
 ### Requisitos
   - Precisa estar em um respositório no Github
   - Precisa ser responsivo
+  - Precisa ser uma PWA
   - Precisa estar no Github Pages
 
 ### Detalhes!
  
   - Montar uma interface com uma experiência para o usuário é um fator importantissímo na avaliação. Exemplo, quando realizar a requisção, mostrar algo que diz que está sendo feito algo, pode ser um "Aguarde...".
   - Pensar na organização do projeto. Perguntas que podem ser feitas:
+    - Troquei as imagens que vem como base do **create-react-app**?
     - "Os diretórios estão **organizados**?"
     - "Criei os **componentes** necessários para o projeto?"
     - "Estou seguindo um **padrão** de escrita de código?"
